@@ -21,7 +21,6 @@
     Atualmente, dedico meus estudos a preencher a lacuna entre a teoria acadêmica e a prática de mercado, construindo um portfólio focado em <b>Finanças Quantitativas</b> e <b>Automação de Risco</b>.
   </p>
 
-  <img src="https://latex.codecogs.com/svg.latex?\color{gray}\footnotesize\sigma_P=\sqrt{w_1^2\sigma_1^2+w_2^2\sigma_2^2+2w_1w_2\rho_{1,2}\sigma_1\sigma_2}" title="Volatilidade do Portfólio" />
 
 </div>
 
