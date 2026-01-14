@@ -54,8 +54,17 @@
 
   <br><br>
 
-  <h3>📊 Métricas de Código</h3>
+  <h3>📊 Atividade no GitHub</h3>
   
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcarvah&theme=dark&hide_border=true&date_format=d%20M%20Y" alt="Igor Streak" />
+    
+    <br><br>
+    
+    <img src="https://ghchart.rshah.org/00ff00/igorcarvah" alt="Igor Github Chart" />
+  </div>
+
+</div>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorcarvah&show_icons=true&theme=dark&locale=pt-br" alt="Igor Stats" height="150" />
