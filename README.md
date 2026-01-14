@@ -34,16 +34,8 @@
   <h3>📊 Métricas de Código</h3>
   
   <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=igorcarvah&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarvah&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=igorcarvah&show_icons=true&theme=dark" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarvah&layout=compact&theme=dark" />
   </p>
 
-  <img src="https://ghchart.rshah.org/00ff00/igorcarvah" alt="Snake Chart" />
-
-</div>
-
-<div align="center">
-  <br>
-  <h3>📈 Atividade no GitHub</h3>
-  <img src="https://ghchart.rshah.org/00ff00/igorcarvah" alt="Igor's Github Chart" />
 </div>
