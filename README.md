@@ -12,11 +12,20 @@
 
   <br><br>
 
-  <h1>Olá, eu sou o Igor! 👋</h1>
+  <h1>Igor Carvalho</h1>
+  <h3>Estatística & Finanças Quantitativas</h3>
+  
+  <p width="600px">
+    <b>Futuro Analista de Risco de Mercado & Crédito.</b>
+  </p>
+
+  <p width="600px">
+    Combino formação técnica em <b>Estatística</b> (UAM) com metodologia internacional (EDHEC) para desenvolver ferramentas de gestão de portfólio e análise de risco de alta precisão.<br>
+    Meu foco é aplicar <b>Python</b> e <b>Modelagem Quantitativa</b> para trazer eficiência e robustez à tomada de decisão financeira.
+  </p>
   
   <p>
-    Sou estudante de <b>Estatística</b> na Universidade Anhembi Morumbi, apaixonado por transformar dados em decisões financeiras seguras.<br>
-    Atualmente, estou me especializando em <b>Finanças Quantitativas</b> e modelagem de <b>Caudas Gordas (Fat Tails)</b> para gestão de risco no mercado brasileiro.
+    🎯 <b>Foco de Atuação:</b> Risco de Mercado (VaR/CVaR), Modelagem de Crédito e Backtesting.
   </p>
 
   <br>
@@ -25,7 +34,7 @@
   
   <br><br>
 
-  <h3>🛠️ Tech Stack & Ferramentas</h3>
+  <h3>🛠️ Arsenal Técnico</h3>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -46,9 +55,12 @@
   <br><br>
 
   <h3>📊 Métricas de Código</h3>
+  
   <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=igorcarvah&show_icons=true&theme=dark&count_private=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarvah&layout=compact&theme=dark" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorcarvah&show_icons=true&theme=dark&locale=pt-br" alt="Igor Stats" height="150" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarvah&layout=compact&theme=dark" alt="Top Langs" height="150" />
+    </a>
   </p>
 
 </div>
