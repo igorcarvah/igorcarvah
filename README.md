@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Igor!;Estat%C3%ADstica+%26+Dados;Aspiring+Quant+Analyst;Aprendendo+sem+parar..." alt="Typing SVG" />
+  
+  <br>
+
   <a href="https://www.linkedin.com/in/igor-carvalho-filho/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
@@ -11,30 +15,32 @@
   </a>
 
   <br><br>
-
-  <h1>Igor Carvalho</h1>
-  <h3>Estatística & Finanças Quantitativas</h3>
   
   <p width="600px">
-    <b>Futuro Analista de Risco de Mercado & Crédito.</b>
+    Estudante de <b>Estatística</b> em transição para o mercado financeiro. <br>
+    Atualmente, dedico meus estudos a preencher a lacuna entre a teoria acadêmica e a prática de mercado, construindo um portfólio focado em <b>Finanças Quantitativas</b> e <b>Automação de Risco</b>.
   </p>
 
-  <p width="600px">
-    Combino formação técnica em <b>Estatística</b> (UAM) com metodologia internacional (EDHEC) para desenvolver ferramentas de gestão de portfólio e análise de risco de alta precisão.<br>
-    Meu foco é aplicar <b>Python</b> e <b>Modelagem Quantitativa</b> para trazer eficiência e robustez à tomada de decisão financeira.
-  </p>
-  
-  <p>
-    🎯 <b>Foco de Atuação:</b> Risco de Mercado (VaR/CVaR), Modelagem de Crédito e Backtesting.
-  </p>
+  <img src="https://latex.codecogs.com/svg.latex?\color{gray}\footnotesize\sigma_P=\sqrt{w_1^2\sigma_1^2+w_2^2\sigma_2^2+2w_1w_2\rho_{1,2}\sigma_1\sigma_2}" title="Volatilidade do Portfólio" />
 
-  <br>
+</div>
 
-  <img src="https://latex.codecogs.com/svg.latex?\color{white}\small\sigma_P=\sqrt{w_1^2\sigma_1^2+w_2^2\sigma_2^2+2w_1w_2\rho_{1,2}\sigma_1\sigma_2}" title="Volatilidade do Portfólio" />
-  
-  <br><br>
+---
 
-  <h3>🛠️ Arsenal Técnico</h3>
+### 🚀 O que estou desenvolvendo (Estudos & Prática)
+
+Meu foco é aplicar os conhecimentos adquiridos em cursos (como o da EDHEC e IBM Data Science) em projetos reais:
+
+* 📈 **Modelagem de Risco:** Estudando e implementando algoritmos para cálculo de **VaR** e **CVaR**, buscando entender como capturar eventos extremos (*Fat Tails*) que fogem da curva normal.
+* 🐍 **Engenharia de Dados:** Aprimorando minhas habilidades em **Python** para construir pipelines que coletam dados da B3 e os organizam em bancos **SQL**, simulando o ambiente real de uma mesa de operações.
+* 🧮 **Estatística Aplicada:** Traduzindo conceitos teóricos da faculdade (Séries Temporais, Regressão) para o código, validando hipóteses de investimento através de Backtesting.
+* 📊 **Visualização:** Desenvolvendo dashboards em **Matplotlib/Seaborn** para tornar a análise de risco visual e intuitiva para tomadores de decisão.
+
+---
+
+### 🛠️ Tech Stack (Minha caixa de ferramentas atual)
+
+<div align="center">
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -52,24 +58,15 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-  <br><br>
-
-  <h3>📊 Atividade no GitHub</h3>
-  
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcarvah&theme=dark&hide_border=true&date_format=d%20M%20Y" alt="Igor Streak" />
-    
-    <br><br>
-    
-    <img src="https://ghchart.rshah.org/00ff00/igorcarvah" alt="Igor Github Chart" />
-  </div>
-
 </div>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorcarvah&show_icons=true&theme=dark&locale=pt-br" alt="Igor Stats" height="150" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarvah&layout=compact&theme=dark" alt="Top Langs" height="150" />
-    </a>
-  </p>
+
+---
+
+<div align="center">
+
+  <h3>🏆 Minha Jornada no GitHub</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=igorcarvah&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <br><br>
+  <img src="https://ghchart.rshah.org/00ff00/igorcarvah" alt="Igor Github Chart" />
 
 </div>
