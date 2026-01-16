@@ -59,13 +59,4 @@ Meu foco é aplicar os conhecimentos adquiridos em cursos (como o da EDHEC e IBM
 
 </div>
 
----
 
-<div align="center">
-
-  <h3>🏆 Minha Jornada no GitHub</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=igorcarvah&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-  <br><br>
-  <img src="https://ghchart.rshah.org/00ff00/igorcarvah" alt="Igor Github Chart" />
-
-</div>
