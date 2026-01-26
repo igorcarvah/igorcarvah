@@ -10,9 +10,7 @@
   <a href="https://portal.anhembi.br/" target="_blank">
     <img src="https://img.shields.io/badge/-Anhembi%20Morumbi-C8102E?style=for-the-badge&logo=google-scholar&logoColor=white" height="25"/>
   </a>
-  <a href="https://www.edhec.edu/en" target="_blank">
-    <img src="https://img.shields.io/badge/-EDHEC%20Business%20School-003366?style=for-the-badge&logo=book&logoColor=white" height="25"/>
-  </a>
+ >
 
   <br><br>
   
