@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Igor!;Estat%C3%ADstica+%26+Dados;Aspiring+Quant+Analyst;Aprendendo+sem+parar..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Igor!;Estat%C3%ADstica+%26+Dados;Risk+Intelligence+Student;Foco+em+Automa%C3%A7%C3%A3o+%26+SQL..." alt="Typing SVG" />
   
   <br>
 
@@ -17,8 +17,8 @@
   <br><br>
   
   <p width="600px">
-    Estudante de <b>Estatística</b> em transição para o mercado financeiro. <br>
-    Atualmente, dedico meus estudos a preencher a lacuna entre a teoria acadêmica e a prática de mercado, construindo um portfólio focado em <b>Finanças Quantitativas</b> e <b>Automação de Risco</b>.
+    Estudante de <b>Estatística</b> focado em resolver problemas complexos com dados. <br>
+    Atualmente, dedico meus estudos a preencher a lacuna entre a teoria matemática e a prática de mercado, construindo um portfólio focado em <b>Análise de Risco</b>, <b>Detecção de Padrões</b> e <b>Automação Bancária</b>.
   </p>
 
 
@@ -28,12 +28,12 @@
 
 ### 🚀 O que estou desenvolvendo (Estudos & Prática)
 
-Meu foco é aplicar os conhecimentos adquiridos em cursos (como o da EDHEC e IBM Data Science) em projetos reais:
+Meu foco é aplicar os conhecimentos adquiridos em cursos (como o da EDHEC e IBM Data Science) para criar soluções de inteligência de dados:
 
-* 📈 **Modelagem de Risco:** Estudando e implementando algoritmos para cálculo de **VaR** e **CVaR**, buscando entender como capturar eventos extremos (*Fat Tails*) que fogem da curva normal.
-* 🐍 **Engenharia de Dados:** Aprimorando minhas habilidades em **Python** para construir pipelines que coletam dados da B3 e os organizam em bancos **SQL**, simulando o ambiente real de uma mesa de operações.
-* 🧮 **Estatística Aplicada:** Traduzindo conceitos teóricos da faculdade (Séries Temporais, Regressão) para o código, validando hipóteses de investimento através de Backtesting.
-* 📊 **Visualização:** Desenvolvendo dashboards em **Matplotlib/Seaborn** para tornar a análise de risco visual e intuitiva para tomadores de decisão.
+* 🛡️ **Risco & Anomalias:** Estudando estatística avançada (VaR, Distribuições) para identificar eventos extremos e comportamentos atípicos em grandes volumes de dados.
+* 🐍 **Engenharia de Dados (ETL):** Aprimorando minhas habilidades em **Python** para construir pipelines que coletam dados brutos e os organizam em bancos **SQL** estruturados, prontos para análise de decisão.
+* 🧮 **Métodos Quantitativos:** Traduzindo conceitos teóricos da faculdade (Séries Temporais, Regressão) para o código, focando em predição e validação de cenários.
+* 📊 **Visualização de Negócio:** Desenvolvendo dashboards em **Matplotlib/Seaborn** e **Power BI** para transformar cálculos complexos em insights visuais claros para gestores.
 
 ---
 
@@ -58,5 +58,3 @@ Meu foco é aplicar os conhecimentos adquiridos em cursos (como o da EDHEC e IBM
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </div>
-
-
