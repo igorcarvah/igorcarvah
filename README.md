@@ -54,4 +54,3 @@ Meu foco é aplicar os conhecimentos de Estatística e Programação para criar 
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
 
-</div>>
